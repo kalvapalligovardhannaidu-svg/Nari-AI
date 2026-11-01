@@ -1,0 +1,9 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nari AI</string>
+    <string name="welcome_message">Your Smart AI Call Assistant</string>
+    <string name="assistant_ready">AI Assistant is Ready</string>
+    <string name="activate_ai">Activate AI Assistant</string>
+    <string name="stop_ai">Stop AI Assistant</string>
+</resources>
